@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE09OSSM-MFD35-04-ADCPSJ000-telemetered-adcp_velocity_earth
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Earth Coordinates Data Products<br>
+Instrument Group Code: ADCP<br>
